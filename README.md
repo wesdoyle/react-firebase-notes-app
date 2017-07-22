@@ -17,6 +17,7 @@ export const DB_CONFIG ={
 `npm start`
 
 ##Sample Screenshot
+
 ![example screenshot](https://github.com/wesdoyle/react-firebase-notes-app/blob/master/src/app.JPG)
 
 

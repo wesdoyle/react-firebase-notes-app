@@ -15,7 +15,7 @@ class Note extends Component{
         this.props.removeNote(id);
     }
 
-    render(props){
+    render(){
         return(
             <div className="note fade-in">
                 <span className="closebtn" 
